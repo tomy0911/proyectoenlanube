@@ -1,0 +1,37 @@
+{
+  "entities": {
+    "author": {
+      "javi592@gmail.com": {
+        "id": "javi592@gmail.com",
+        "name": "Javier",
+        "lastname": "Rodriguez",
+        "age": 22,
+        "alias": "javi592",
+        "avatar": "url.com"
+      },
+      "marito11@gmail.com": {
+        "id": "marito11@gmail.com",
+        "name": "Mario",
+        "lastname": "Pedraza",
+        "age": 27,
+        "alias": "marito",
+        "avatar": "url.com"
+      }
+    },
+    "messages": {
+      "1": {
+        "author": "javi592@gmail.com",
+        "text": "Hola, buenas tardes!",
+        "time": "14/03/2023, 1:19:52 PM",
+        "id": 25
+      },
+      "2": {
+        "author": "marito11@gmail.com",
+        "text": "Hola, como estas?",
+        "time": "14/03/2023, 1:20:22 PM",
+        "id": 26
+      }
+    }
+  },
+  "result": [1, 2]
+}
